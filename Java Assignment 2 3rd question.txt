@@ -1,7 +1,0 @@
-public class Kcg{
-	public static void main(String a[]){   
-		char a = 's';
-		int s = 95;
-		a = 's';  	//int cannot be converted to character
-	}
-}
